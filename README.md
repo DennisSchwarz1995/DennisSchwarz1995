@@ -16,8 +16,6 @@ I'm a Frontend Developer based in Germany 🇩🇪 focused on building high-perf
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <div style="clear: both;"></div>
 
----
-
 ## 🤝 Get in Touch
 - 🌐 My Website: **[dennis-schwarz.dev](https://dennis-schwarz.dev)**
 - 💼 LinkedIn **[Dennis Schwarz]("https://www.linkedin.com/in/dennis-schwarz-47ba5b338/")**
