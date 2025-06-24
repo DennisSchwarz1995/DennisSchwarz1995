@@ -3,7 +3,6 @@
 I'm a Frontend Developer based in Germany 🇩🇪 focused on building high-performance web and mobile applications. I enjoy exploring modern JavaScript frameworks and contributing to the developer community.
 
 ## 🛠️ Technologies & Tools
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -14,9 +13,12 @@ I'm a Frontend Developer based in Germany 🇩🇪 focused on building high-perf
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<div style="clear: both;"></div>
 
 ---
+
 ## 🤝 Get in Touch
 - 🌐 My Website: **[dennis-schwarz.dev](https://dennis-schwarz.dev)**
-- 💼 LinkedIn **[https://www.linkedin.com/in/dennis-schwarz-47ba5b338/]("https://www.linkedin.com/in/dennis-schwarz-47ba5b338/")**
+- 💼 LinkedIn **[Dennis Schwarz]("https://www.linkedin.com/in/dennis-schwarz-47ba5b338/")**
 - 📫 Reach me at: **[kontakt@dennis-schwarz.dev](mailto:kontakt@dennis-schwarz.dev)**
