@@ -1,4 +1,4 @@
-<h1 align="center"><font face="Arial">Hi 👋 ! My name is Dennis Schwarz and i am a Frontend Developer from Germany.</font></h1>
+<h1 align="center"><font face="Arial">Hi 👋 I’m Dennis Schwarz, a Frontend Developer based in Germany.</font></h1>
 
 
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
