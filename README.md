@@ -1,6 +1,8 @@
-<h1 align="left"><font face="Arial">Hi 👋 I’m Dennis Schwarz</font></h1>
+# Hi 👋 I’m Dennis Schwarz
 
 I'm a Frontend Developer based in Germany 🇩🇪 focused on building high-performance web and mobile applications. I enjoy exploring modern JavaScript frameworks and contributing to the developer community.
+
+---
 
 ## 🛠️ Technologies & Tools
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -14,7 +16,9 @@ I'm a Frontend Developer based in Germany 🇩🇪 focused on building high-perf
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<div style="clear: both;"></div>
 
+---
 
 ## 🤝 Get in Touch
 - 🌐 My Website: **[dennis-schwarz.dev](https://dennis-schwarz.dev)**
