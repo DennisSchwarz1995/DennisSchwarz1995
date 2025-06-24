@@ -1,4 +1,4 @@
-<h1 align="center"><font face="Arial">Hi 👋 I’m Dennis Schwarz</font></h1>
+<h1 align="left"><font face="Arial">Hi 👋 I’m Dennis Schwarz</font></h1>
 
 I'm a Frontend Developer based in Germany 🇩🇪 focused on building high-performance web and mobile applications. I enjoy exploring modern JavaScript frameworks and contributing to the developer community.
 
@@ -18,5 +18,5 @@ I'm a Frontend Developer based in Germany 🇩🇪 focused on building high-perf
 
 ## 🤝 Get in Touch
 - 🌐 My Website: **[dennis-schwarz.dev](https://dennis-schwarz.dev)**
-- 💼 LinkedIn **[Dennis Schwarz]("https://www.linkedin.com/in/dennis-schwarz-47ba5b338/")**
+- 💼 LinkedIn **[Dennis Schwarz](https://www.linkedin.com/in/dennis-schwarz-47ba5b338/)**
 - 📫 Reach me at: **[kontakt@dennis-schwarz.dev](mailto:kontakt@dennis-schwarz.dev)**
