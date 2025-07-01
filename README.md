@@ -18,6 +18,6 @@ I'm a frontend developer based in Germany 🇩🇪 focused on building high-perf
 <br clear="all" />
 
 ## 🤝 Get in Touch
-- 🌐 Website:    **[dennis-schwarz.dev](https://dennis-schwarz.dev)**
-- 💼 LinkedIn:   **[Dennis Schwarz](https://www.linkedin.com/in/dennis-schwarz-47ba5b338/)**
-- 📫 Reach me at:**[kontakt@dennis-schwarz.dev](mailto:kontakt@dennis-schwarz.dev)**
+- 🌐 **Website**:    **[dennis-schwarz.dev](https://dennis-schwarz.dev)**
+- 💼 **LinkedIn**:   **[Dennis Schwarz](https://www.linkedin.com/in/dennis-schwarz-47ba5b338/)**
+- 📫 **E-Mail**:     **[kontakt@dennis-schwarz.dev](mailto:kontakt@dennis-schwarz.dev)**
